@@ -28,5 +28,42 @@ This is a full-stack authentication application that allows users to register an
 - dotenv
 
 ---
+ 4. Installation Instructions
+
+ Clone the Repository
+
+```bash
+git clone https://github.com/your-username/auth-fullstack-app.git
+cd auth-fullstack-app
+```
+Setup Backend
+```bash
+cd server
+npm install
+```
+Create a .env file in the server/ directory using the sample below and run the backend:
+```bash
+node server.js
+```
+Setup Frontend
+```bash
+cd ../client
+npm install
+npm run dev
+```
+
+.env.sample (in /server folder)
+```ini
+MONGO_URI=mongodb+srv://<username>:<password>@cluster0.mongodb.net/authdb?retryWrites=true&w=majority
+JWT_SECRET=your_jwt_secret
+PORT=5000
+```
+![ss1](https://github.com/user-attachments/assets/360941dc-8f26-41b6-931f-3dec4446e751)
+![ss2](https://github.com/user-attachments/assets/f6283abe-acff-416f-a208-5145d1d8bed1)
+![ss3](https://github.com/user-attachments/assets/b911a402-3d69-49f8-9514-edba99f25e59)
+
+
+
+
 
 
