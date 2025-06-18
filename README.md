@@ -58,9 +58,7 @@ MONGO_URI=mongodb+srv://<username>:<password>@cluster0.mongodb.net/authdb?retryW
 JWT_SECRET=your_jwt_secret
 PORT=5000
 ```
-![ss1](https://github.com/user-attachments/assets/360941dc-8f26-41b6-931f-3dec4446e751)
-![ss2](https://github.com/user-attachments/assets/f6283abe-acff-416f-a208-5145d1d8bed1)
-![ss3](https://github.com/user-attachments/assets/b911a402-3d69-49f8-9514-edba99f25e59)
+![ssneew](https://github.com/user-attachments/assets/d3d7fb0b-9282-48a4-a4a4-5f8315b66c92)
 
 
 
