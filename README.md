@@ -1,3 +1,4 @@
+
 Authentication System – Full Stack Intern
 
  1. Project Title and Track Chosen
@@ -59,7 +60,8 @@ JWT_SECRET=your_jwt_secret
 PORT=5000
 ```
 ![ssneew](https://github.com/user-attachments/assets/d3d7fb0b-9282-48a4-a4a4-5f8315b66c92)
-
+![ssnewww](https://github.com/user-attachments/assets/78ada4a3-44d3-4ae4-b1d1-cc28d99f0285)
+![ssneew](https://github.com/user-attachments/assets/df9d8c6c-0f58-4301-9119-e4f743c7ac35)
 
 
 
